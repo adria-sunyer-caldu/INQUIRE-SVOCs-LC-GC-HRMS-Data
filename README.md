@@ -1,4 +1,4 @@
-# INQUIRE-SVOCs-LC-GC-HRMS-Analysis_Airborne_Exposome
+# INQUIRE-SVOCs-LC-GC-HRMS-Data
 
 Target and nontarget LC-HRMS/GC-HRMS analysis of semi-volatile organic
 compounds (SVOCs) in indoor/outdoor air across Europe, using PDMS foam
