@@ -1,0 +1,107 @@
+Feature_ID,Smiles,IUPAC name,ID level,Compound_Class
+1005.79_105.0337_NILU_2,O=CC1=CC=CC=C1,Benzaldehyde,2.0,BTEX / Monoaromatics
+1005.2_43.0183_NILU_2,CC(C)=CCCC(=C)C=C,"7-Methyl-3-methylideneocta-1,6-diene",2.0,Alkanes / Aliphatics
+1023.39_103.0609_NILU_2,CC1=CC(=C(C=C1)C)C,"1,2,4-trimethylbenzene",2.0,BTEX / Monoaromatics
+1036.86_45.033_NILU_2,COCC(C)OCC(C)O,1-[(1-Methoxypropan-2-yl)oxy]propan-2-ol,2.0,Oxygenated aliphatics
+1026.24_93.0691_NILU_2,CC1=CCC2CC1C2(C)C,"2,6,6-trimethylbicyclo[3.1.1]hept-2-ene",2.0,Other
+1041.56_59.0484_NILU_2,COC(C)COC(C)CO,2-(2-Methoxypropoxy)propan-1-ol,2.0,Oxygenated aliphatics
+1050.29_57.0698_NILU_2,CCCCC(CC)CO,2-Ethylhexan-1-ol,2.0,Oxygenated aliphatics
+1047.3_93.0689_NILU_2,CC(=C)C1CCC(C)=CC1,1-Methyl-4-(prop-1-en-2-yl)cyclohex-1-ene,2.0,Alkanes / Aliphatics
+1069.98_71.0559_NILU_2,CCCC(=O)OCCC(C)C,3-methylbutyl butanoate,2.0,Fatty acid esters
+1072.18_93.0677_NILU_2,CC(C)C1=CCC(C)=CC1,"1-Methyl-4-(propan-2-yl)cyclohexa-1,4-diene",2.0,Other
+1080.58_59.0486_NILU_2,CC(CCCC(C)(C)O)C=C,"2,6-Dimethyloct-7-en-2-ol",2.0,Oxygenated aliphatics
+1099.17_73.0637_NILU_2,CCC(C)(O)CCCC(C)C,"3,7-Dimethyloctan-3-ol",2.0,Oxygenated aliphatics
+1099.92_71.085_NILU_2,CCCCCCCCCCC,Undecane,1.0,Alkanes / Aliphatics
+1104.41_57.0427_NILU_2,CCCCCCCCC=O,Nonanal,2.0,Alkanes / Aliphatics
+1133.42_100.052_NILU_2,COC(=O)CCCC(=O)OC,dimethyl pentanedioate,2.0,Fatty acid esters
+1152.4_69.0343_NILU_2,CC1(C)C2CCC1(C)C(=O)C2,"1,7,7-Trimethylbicyclo[2.2.1]heptan-2-one",2.0,Alkanes / Aliphatics
+1159.48_84.0588_NILU_2,CC(C)[C@@H]1CC[C@@H](C)CC1=O,"(2R,5S)-5-Methyl-2-(propan-2-yl)cyclohexan-1-one",2.0,Alkanes / Aliphatics
+1167.31_85.0999_NILU_2,CCCCCCCCC(C)CC,3-Methylundecane,2.0,Alkanes / Aliphatics
+1179.81_95.0844_NILU_2,CC1(C2CCC1(C(C2)O)C)C,"1,7,7-trimethylbicyclo[2.2.1]heptan-2-ol",2.0,Oxygenated aliphatics
+1180.98_82.0801_NILU_2,CC(C)C1CCC(C)CC1O,5-Methyl-2-(propan-2-yl)cyclohexan-1-ol,2.0,Oxygenated aliphatics
+1191.7_122.0737_NILU_2,CC(C1=CC=CC=C1)OC(=O)C,1-phenylethyl acetate,2.0,Fatty acid esters
+1190.47_101.0586_NILU_2,C1=CC2=CC=CC=C2C=C1,Naphthalene,2.0,BTEX / Monoaromatics
+1199.01_43.0542_NILU_2,CC1=CCC(CC1)C(C)(C)O,2-(4-methylcyclohex-3-en-1-yl)propan-2-ol,2.0,Oxygenated aliphatics
+1209.72_57.0457_NILU_2,CCCCCCCCCC=O,Decanal,2.0,Alkanes / Aliphatics
+1212.51_107.0804_NILU_2,CCCC1=CC=C(OC)C=C1,1-Methoxy-4-propylbenzene,2.0,BTEX / Monoaromatics
+1221.49_82.0749_NILU_2,CC(C)(C)[C@H]1CC[C@H](O)CC1,"(1r,4r)-4-tert-Butylcyclohexan-1-ol",2.0,Oxygenated aliphatics
+1226.73_140.1542_NILU_2,C1N2CN3CN1CN(C2)C3,"1,3,5,7-Tetraazatricyclo[3.3.1.1~3,7~]decane",2.0,N-containing aliphatics
+1229.28_138.0982_NILU_2,OCCOC1=CC=CC=C1,2-Phenoxyethan-1-ol,2.0,Oxygenated aliphatics
+1249.6_93.0681_NILU_2,CC(O)COC1=CC=CC=C1,1-Phenoxypropan-2-ol,2.0,Oxygenated aliphatics
+1249.39_82.0434_NILU_2,CC(=C)C1CC=C(C)C(=O)C1,2-Methyl-5-(prop-1-en-2-yl)cyclohex-2-en-1-one,2.0,Other
+1273.17_43.051_NILU_2,[H][C@]12OC[C@H](OC)[C@@]1([H])OC[C@H]2OC,"1,4:3,6-Dianhydro-2,5-di-O-methyl-D-glucitol",2.0,Other
+1291.96_95.0848_NILU_2,[H][C@]12CC[C@](C)([C@@H](C1)OC(C)=O)C2(C)C,"(1S,2R,4S)-1,7,7-Trimethylbicyclo[2.2.1]heptan-2-yl acetate",2.0,Fatty acid esters
+1298.89_43.0542_NILU_2,CCCCCCCCCCCCC,Tridecane,1.0,Alkanes / Aliphatics
+1310.82_81.0701_NILU_2,CC1=CC2=CC=CC=C2C=C1,2-Methylnaphthalene,2.0,BTEX / Monoaromatics
+1319_43.0183_NILU_2,CC(=O)OC(C)(C)CC1=CC=CC=C1,(2-methyl-1-phenylpropan-2-yl) acetate,2.0,Fatty acid esters
+1324.25_113.1319_NILU_2,CC(CC(C)(C)C)CC(C)(C)CC(C)(C)C,"2,2,4,4,6,8,8-Heptamethylnonane",2.0,Other
+1335.62_80.0604_NILU_2,CC1=CC=CC2=CC=CC=C12,1-methylnaphthalene,2.0,BTEX / Monoaromatics
+1350.07_121.0973_NILU_2,CC1=CCC(CC1)C(C)(C)OC(=O)C,2-(4-methylcyclohex-3-en-1-yl)propan-2-yl acetate,2.0,Fatty acid esters
+1374.02_85.0675_NILU_2,CC(C)C(O)C(C)(C)COC(=O)C(C)C,"3-Hydroxy-2,2,4-trimethylpentyl 2-methylpropanoate",2.0,Fatty acid esters
+1384.28_117.0864_NILU_2,CCCCCCOC(=O)CCCCC,Hexyl hexanoate,2.0,Fatty acid esters
+1388.01_210.2346_NILU_2,C1=CC=C(C=C1)C1=CC=CC=C1,"1,1'-Biphenyl",2.0,BTEX / Monoaromatics
+1388.78_121.0646_NILU_2,CC1=CC(O)=CC(C)=C1Cl,"4-Chloro-3,5-dimethylphenol",2.0,Halogenated aromatics
+1399.45_85.1004_NILU_2,CCCCCCCCCCCCCC,Tetradecane,2.0,Alkanes / Aliphatics
+1410.09_141.07_NILU_2,O(C1=CC=CC=C1)C1=CC=CC=C1,"1,1'-Oxydibenzene",2.0,BTEX / Monoaromatics
+1412.19_96.0927_NILU_2,CCCCCCCCCCCC=O,Dodecanal,2.0,Alkanes / Aliphatics
+1426.18_121.0698_NILU_2,[H][C@@]12CC[C@@H](C)[C@]11C[C@@H](C(C)=CC1)C2(C)C,Cedr-8-ene,2.0,Alkanes / Aliphatics
+1444.45_82.0448_NILU_2,CC(C)OC(=O)CCCCC(=O)OC(C)C,Dipropan-2-yl hexanedioate,2.0,Fatty acid esters
+1451.16_43.0201_NILU_2,CC(C)=CCC\C(C)=C/CCC(C)=O,"(5Z)-6,10-dimethylundeca-5,9-dien-2-one",2.0,Alkanes / Aliphatics
+1474.32_69.0686_NILU_2,CC1=CCCC(C1/C=C(\C)/C(=O)C)(C)C,"(E)-3-methyl-4-(2,6,6-trimethylcyclohex-2-en-1-yl)but-3-en-2-one",2.0,Alkanes / Aliphatics
+1482.65_43.0175_NILU_2,CC1=C(C(CCC1)(C)C)/C=C/C(=O)C,"(E)-4-(2,6,6-trimethylcyclohexen-1-yl)but-3-en-2-one",2.0,Alkanes / Aliphatics
+1487.16_133.0995_NILU_2,CC(=O)C=CC1=C(C)CCCC1(C)C,"4-(2,6,6-Trimethylcyclohex-1-en-1-yl)but-3-en-2-one",2.0,Alkanes / Aliphatics
+1499.77_85.1001_NILU_2,CC(C)(C)C1=CC(=C(C=C1)O)C(C)(C)C,"2,4-ditert-butylphenol",2.0,BTEX / Monoaromatics
+1507.94_175.1145_NILU_2,CC1C(C)(C)C2=C(C(=O)CCC2)C1(C)C,"1,1,2,3,3-Pentamethyl-1,2,3,5,6,7-hexahydro-4H-inden-4-one",2.0,Alkanes / Aliphatics
+1516.84_189.1586_NILU_2,C[C@@H]1CC[C@@H]2[C@@H](C)CC[C@@H]3C[C@]12OC3(C)C,"(1S,2R,5R,6S,9R)-2,6,10,10-tetramethyl-11-oxatricyclo[7.2.1.01,5]dodecane",2.0,Alkanes / Aliphatics
+1519.2_121.0716_NILU_2,CCCCOCC(C)OCC(C)OCC(C)O,1-[1-(1-butoxypropan-2-yloxy)propan-2-yloxy]propan-2-ol,2.0,Oxygenated aliphatics
+1520.14_87.0488_NILU_2,CCCCCCCCCCCC(=O)OC,Methyl dodecanoate,2.0,Fatty acid esters
+1527.19_117.0681_NILU_2,CC(CC1=CC=C(C=C1)C(C)(C)C)C=O,3-(4-tert-Butylphenyl)-2-methylpropanal,2.0,BTEX / Monoaromatics
+1532.91_113.1316_NILU_2,CCCCCC(CCCC)C1=CC=CC=C1,(Decan-5-yl)benzene,2.0,BTEX / Monoaromatics
+1539.18_168.0577_NILU_2,O1C2=CC=CC=C2C2=C1C=CC=C2,"Dibenzo[b,d]furan",2.0,BTEX / Monoaromatics
+1553.01_107.0491_NILU_2,CC(=O)OC(C1=CC=CC=C1)C(Cl)(Cl)Cl,"(2,2,2-trichloro-1-phenylethyl) acetate",2.0,Halogenated aliphatics
+1559.79_183.2096_NILU_2,C[C@H]1CCC2=C1C[C@@H](CC[C@@H]2C)C(C)(C)O,"2-[(3S,5R,8S)-3,8-Dimethyl-1,2,3,4,5,6,7,8-octahydroazulen-5-yl]propan-2-ol",2.0,Oxygenated aliphatics
+1572.18_189.1595_NILU_2,CC(C)COC(=O)CCCC(=O)OCC(C)C,bis(2-methylpropyl) pentanedioate,2.0,Fatty acid esters
+1576.77_191.16_NILU_2,CCC(=O)C=CC1=C(C)CCCC1(C)C,"1-(2,6,6-Trimethylcyclohex-1-en-1-yl)pent-1-en-3-one",2.0,Alkanes / Aliphatics
+1582.63_121.0418_NILU_2,CCCCCOC(=O)C1=C(O)C=CC=C1,Pentyl 2-hydroxybenzoate,2.0,Phthalates / Aromatic esters
+1599.56_113.1315_NILU_2,CCCCCCCCCCCCCCCC,Hexadecane,1.0,Alkanes / Aliphatics
+1610.39_197.9945_NILU_2,CC1=C(O)C(=CC(=C1)[N+]([O-])=O)[N+]([O-])=O,"2-Methyl-4,6-dinitrophenol",1.0,BTEX / Monoaromatics
+1633.16_175.1455_NILU_2,CCCCCCC(CCCC)C1=CC=CC=C1,(Undecan-5-yl)benzene,2.0,BTEX / Monoaromatics
+1645.38_112.1219_NILU_2,CCCCCC1C(CC(=O)OC)CCC1=O,Methyl (3-oxo-2-pentylcyclopentyl)acetate,2.0,Fatty acid esters
+1661.26_197.2234_NILU_2,CCCCOC(=O)CCCC(=O)OCCCC,Dibutyl pentanedioate,2.0,Fatty acid esters
+1670.8_119.0814_NILU_2,CC1CC2=C(CC1(C)C(=O)C)C(CCC2)(C)C,"1-(2,3,8,8-tetramethyl-1,3,4,5,6,7-hexahydronaphthalen-2-yl)ethanone",2.0,Alkanes / Aliphatics
+1673.92_192.1825_NILU_2,CC1CC2=C(CC1(C)C(=O)C)C(CCC2)(C)C,"1-(2,3,8,8-tetramethyl-1,3,4,5,6,7-hexahydronaphthalen-2-yl)ethanone",2.0,Alkanes / Aliphatics
+1686.33_138.0292_NILU_2,CCCCCCOC(=O)C1=C(O)C=CC=C1,Hexyl 2-hydroxybenzoate,2.0,Phthalates / Aromatic esters
+1699.58_71.0827_NILU_2,CCCCCCCCCCCCCCCCC,Heptadecane,1.0,Alkanes / Aliphatics
+1700.1_99.1153_NILU_2,CCCCCCCCCC(C)C1=CC=CC=C1,(Undecan-2-yl)benzene,2.0,BTEX / Monoaromatics
+1707.33_247.9423_NILU_2,BrC1=CC=C(OC2=CC=CC=C2)C=C1,1-Bromo-4-phenoxybenzenato,1.0,Brominated compounds
+1712.07_195.1182_NILU_2,CC1=CC(=C(C=C1)C2=C(C=C(C=C2)C)C)C,"1-(2,4-dimethylphenyl)-2,4-dimethylbenzene",2.0,BTEX / Monoaromatics
+1717.59_283.7625_NILU_2,ClC1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl,Hexachlorobenzene,1.0,Halogenated aromatics
+1729.93_91.0534_NILU_2,CCCCCCCC(CCCC)C1=CC=CC=C1,(Dodecan-5-yl)benzene,2.0,BTEX / Monoaromatics
+1733.86_155.0869_NILU_2,CC(C)C1=CC2=C(C=C1)C=C(C=C2)C(C)C,"2,6-Di(propan-2-yl)naphthalene",2.0,BTEX / Monoaromatics
+1748.31_133.0996_NILU_2,CCCCCCC(C=O)=CC1=CC=CC=C1,2-Benzylideneoctanal,2.0,BTEX / Monoaromatics
+1751.18_121.0334_NILU_2,OC1=C(C=CC=C1)C(=O)OC1CCCCC1,Cyclohexyl 2-hydroxybenzoate,2.0,Phthalates / Aromatic esters
+1756.09_216.1534_NILU_2,CCCCCCC(C=O)=CC1=CC=CC=C1,2-Benzylideneoctanal,2.0,BTEX / Monoaromatics
+1760.99_169.0602_NILU_2,OC1=C(Cl)C(Cl)=C(Cl)C(Cl)=C1Cl,Pentachlorophenol,1.0,Halogenated aromatics
+1780.36_184.0271_NILU_2,S1C2=C(C=CC=C2)C2=C1C=CC=C2,"Dibenzo[b,d]thiophene",2.0,Sulfur-containing
+1783.11_43.0239_NILU_2,O=C(OCC1=CC=CC=C1)C1=CC=CC=C1,Benzyl benzoate,2.0,Phthalates / Aromatic esters
+1801.75_178.0553_NILU_2,C1=CC2=C(C=C1)C1=C(C=CC=C1)C=C2,Phenanthrene,1.0,BTEX / Monoaromatics
+1810.29_105.0673_NILU_2,CCCCCCCCCCC(C)C1=CC=CC=C1,(Dodecan-2-yl)benzene,2.0,BTEX / Monoaromatics
+1818.3_178.0553_NILU_2,C1=CC2=CC3=C(C=CC=C3)C=C2C=C1,Anthracene,1.0,BTEX / Monoaromatics
+1821.78_61.0283_NILU_2,CCCCCCCCCCCCCC(=O)OC(C)C,Propan-2-yl tetradecanoate,2.0,Fatty acid esters
+1860.1_167.0495_NILU_2,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C,"4,6,6,7,8,8-hexamethyl-1,3,4,7-tetrahydrocyclopenta[g]isochromene",2.0,BTEX / Monoaromatics
+1872.9_119.0846_NILU_2,CCCCCCCCCCC(CC)C1=CC=CC=C1,(Tridecan-3-yl)benzene,2.0,BTEX / Monoaromatics
+1876.73_84.0919_NILU_2,CCCCCCCCC(C)OC(=O)C1=CC=CC=C1,decan-2-yl benzoate,2.0,Phthalates / Aromatic esters
+1889.45_243.1736_NILU_2,OC1=C(C=CC=C1)C(=O)OCC1=CC=CC=C1,Benzyl 2-hydroxybenzoate,2.0,Phthalates / Aromatic esters
+1898.93_85.1007_NILU_2,CCCCCCCCCCCCCCCCCCCC,Icosane,1.0,Alkanes / Aliphatics
+1899.41_113.1326_NILU_2,CCCCCCCCCCCCCCCCCCC,Nonadecane,1.0,Alkanes / Aliphatics
+2000.49_71.0851_NILU_2,CCCCCCCCCCCCCCCCCCCCC,Henicosane,1.0,Alkanes / Aliphatics
+2020.98_60.0207_NILU_2,CCCCCCCCCCCCCCCC(=O)OC(C)C,Propan-2-yl hexadecanoate,2.0,Fatty acid esters
+2079.91_223.085_NILU_2,CCCCOC(=O)C1=CC=C(C=C1)C(=O)OCC(C)C,"1-O-butyl 4-O-(2-methylpropyl) benzene-1,4-dicarboxylate",2.0,Phthalates / Aromatic esters
+2090.59_202.0542_NILU_2,C1=CC2=C(C=C1)C1=C3C2=CC=CC3=CC=C1,Fluoranthene,1.0,BTEX / Monoaromatics
+2113_202.078_NILU_2,C1=CC2=C3C(C=CC4=CC=CC(C=C2)=C34)=C1,Pyrene,2.0,BTEX / Monoaromatics
+2200.79_71.0846_NILU_2,CCCCCCCCCCCCCCCCCCCCCC,Docosane,1.0,Alkanes / Aliphatics
+2248.96_186.1321_NILU_2,CCCCOC(=O)CC(CC(=O)OCCCC)(OC(C)=O)C(=O)OCCCC,"Tributyl 2-(acetyloxy)propane-1,2,3-tricarboxylate",2.0,Fatty acid esters
+2250.71_237.0987_NILU_2,CCCCCOC(=O)C1=CC(=CC=C1)C(=O)OCC(C)CC,"3-O-(2-methylbutyl) 1-O-pentyl benzene-1,3-dicarboxylate",2.0,Phthalates / Aromatic esters
+2358.19_239.179_NILU_2,COC(=O)C1(C)CCCC2(C)C1CCC1=C2C=CC(=C1)C(C)C,"Methyl abieta-8,11,13-trien-18-oate",2.0,Fatty acid esters
+2369.13_129.0569_NILU_2,CCCCC(CC)COC(=O)CCCCC(=O)OCC(CC)CCCC,bis(2-ethylhexyl) hexanedioate,2.0,Fatty acid esters
+2538.6_149.0259_NILU_2,CCCC(CCC)COC(=O)C1=CC=CC=C1C(=O)OCC(CCC)CCC,"bis(2-propylpentyl) benzene-1,2-dicarboxylate",2.0,Phthalates / Aromatic esters
