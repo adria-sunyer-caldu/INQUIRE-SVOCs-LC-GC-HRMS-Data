@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "INQUIRE-SVOCs-LC-GC-HRMS-Data"
+type: software
+authors:
+  - family-names: "Sunyer Caldú"
+    given-names: "Adrià"
+    affiliation: "Stockholm University"
+    orcid: "https://orcid.org/0000-0001-5134-1196"
+license: CC-BY-4.0
+repository-code: "https://github.com/adria-sunyer-caldu/INQUIRE-SVOCs-LC-GC-HRMS-Data"
