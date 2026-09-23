@@ -1,11 +1,19 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
 title: "INQUIRE-SVOCs-LC-GC-HRMS-Data"
+version: 1.0.4
+license: "CC-BY-4.0"
 type: software
-authors:
-  - family-names: "Sunyer Caldú"
-    given-names: "Adrià"
-    affiliation: "Stockholm University"
-    orcid: "https://orcid.org/0000-0001-5134-1196"
-license: CC-BY-4.0
+abstract: "Analysis pipeline for target and nontarget LC-HRMS and GC-HRMS analysis of semi-volatile organic compounds in indoor and outdoor air across eight European countries, INQUIRE project."
+message: "If you use this software, please cite it as below."
 repository-code: "https://github.com/adria-sunyer-caldu/INQUIRE-SVOCs-LC-GC-HRMS-Data"
+authors:
+  - given-names: Adrià
+    family-names: Sunyer Caldú
+    affiliation: Stockholm University
+    orcid: "https://orcid.org/0000-0001-5134-1196"
+keywords:
+  - exposomics
+  - nontarget analysis
+  - indoor air
+  - LC-HRMS
+  - GC-HRMS
