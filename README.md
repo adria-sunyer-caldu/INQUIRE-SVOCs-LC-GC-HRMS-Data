@@ -123,7 +123,7 @@ Data deposited separately on Zenodo is likewise released under CC-BY 4.0.
 
 If you use this code or data, please give credit to:
 Adrià Sunyer Caldú, Stockholm University — [paper citation to be added upon publication]
-[Zenodo software DOI to be added]
+Code archive DOI (all versions): https://doi.org/10.5281/zenodo.22924214
 
 ## Contact
 
